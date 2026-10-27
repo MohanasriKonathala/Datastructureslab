@@ -49,10 +49,3 @@ Replace the filename with the program you want to run. Each file has its own `ma
 - Program 5 evaluates single-digit numbers and uppercase variables. For multi-digit operands, extend the tokenizer to parse complete numbers.
 - Program 9 uses a fixed hash table size of 11. The same inserted key is added to all three collision-resolution demonstrations.
 
-## Suggested GitHub repository name
-
-`data-structures-lab-c`
-
-## Suggested GitHub description
-
-`Menu-driven C implementations of linked lists, stacks, queues, hashing, BSTs, graph traversal, and shortest-path algorithms.`
